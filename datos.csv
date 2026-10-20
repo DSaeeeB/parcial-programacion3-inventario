@@ -1,0 +1,101 @@
+id_producto,nombre_producto,sucursal,stock,precio_unitario,valor_total
+PROD-001,Audífonos Gamer,La Libertad,102,149.82,15281.64
+PROD-002,Disco SSD 1TB,Sonsonate,30,129.67,3890.1
+PROD-003,Teclado Mecánico,San Miguel,97,260.28,25247.16
+PROD-004,Disco SSD 1TB,San Miguel,62,727.88,45128.56
+PROD-005,"Monitor 24""",Santa Ana,30,468.85,14065.5
+PROD-006,Mouse Inalámbrico,Sonsonate,98,229.05,22446.9
+PROD-007,Teclado Mecánico,Santa Ana,24,350.21,8405.04
+PROD-008,Audífonos Gamer,San Miguel,117,392.96,45976.32
+PROD-009,Disco SSD 1TB,San Salvador,140,647.06,90588.4
+PROD-010,Audífonos Gamer,Sonsonate,82,62.81,5150.42
+PROD-011,"Monitor 24""",San Salvador,69,429.02,29602.38
+PROD-012,Mouse Inalámbrico,San Salvador,99,86.79,8592.21
+PROD-013,"Monitor 24""",La Libertad,120,517.2,62064.0
+PROD-014,"Monitor 24""",Sonsonate,17,40.28,684.76
+PROD-015,Silla Ergonómica,San Salvador,59,501.95,29615.05
+PROD-016,Mouse Inalámbrico,Santa Ana,13,150.87,1961.31
+PROD-017,Audífonos Gamer,Santa Ana,53,705.53,37393.09
+PROD-018,Silla Ergonómica,La Libertad,23,549.54,12639.42
+PROD-019,Audífonos Gamer,La Libertad,49,635.73,31150.77
+PROD-020,Impresora L3210,Santa Ana,120,624.12,74894.4
+PROD-021,Mouse Inalámbrico,San Salvador,133,217.86,28975.38
+PROD-022,Impresora L3210,Sonsonate,74,26.49,1960.26
+PROD-023,Laptop HP,San Salvador,145,19.06,2763.7
+PROD-024,Teclado Mecánico,San Miguel,90,537.84,48405.6
+PROD-025,Teclado Mecánico,San Salvador,132,69.42,9163.44
+PROD-026,Audífonos Gamer,Santa Ana,50,687.5,34375.0
+PROD-027,Laptop HP,La Libertad,42,61.72,2592.24
+PROD-028,Audífonos Gamer,Sonsonate,108,449.6,48556.8
+PROD-029,Silla Ergonómica,San Miguel,44,362.08,15931.52
+PROD-030,Impresora L3210,San Miguel,10,545.47,5454.7
+PROD-031,Audífonos Gamer,San Miguel,146,537.34,78451.64
+PROD-032,Mouse Inalámbrico,Santa Ana,133,94.3,12541.9
+PROD-033,Audífonos Gamer,San Salvador,61,429.01,26169.61
+PROD-034,"Monitor 24""",Sonsonate,38,183.17,6960.46
+PROD-035,Disco SSD 1TB,San Miguel,95,662.14,62903.3
+PROD-036,Mouse Inalámbrico,Sonsonate,71,480.55,34119.05
+PROD-037,Silla Ergonómica,La Libertad,37,175.55,6495.35
+PROD-038,"Monitor 24""",San Miguel,137,608.47,83360.39
+PROD-039,"Monitor 24""",San Salvador,138,182.53,25189.14
+PROD-040,Silla Ergonómica,San Salvador,125,274.14,34267.5
+PROD-041,Teclado Mecánico,San Miguel,146,371.35,54217.1
+PROD-042,Laptop HP,San Miguel,68,252.55,17173.4
+PROD-043,Disco SSD 1TB,San Salvador,122,62.7,7649.4
+PROD-044,Mouse Inalámbrico,La Libertad,21,200.06,4201.26
+PROD-045,Mouse Inalámbrico,San Miguel,122,123.84,15108.48
+PROD-046,Disco SSD 1TB,San Salvador,122,732.81,89402.82
+PROD-047,"Monitor 24""",Sonsonate,138,191.08,26369.04
+PROD-048,Mouse Inalámbrico,Sonsonate,77,74.43,5731.11
+PROD-049,Disco SSD 1TB,San Miguel,47,285.32,13410.04
+PROD-050,"Monitor 24""",Santa Ana,148,615.08,91031.84
+PROD-051,Disco SSD 1TB,San Salvador,133,388.53,51674.49
+PROD-052,Disco SSD 1TB,Sonsonate,12,449.31,5391.72
+PROD-053,Teclado Mecánico,La Libertad,99,391.39,38747.61
+PROD-054,Teclado Mecánico,La Libertad,105,85.69,8997.45
+PROD-055,Laptop HP,San Salvador,137,395.55,54190.35
+PROD-056,Disco SSD 1TB,San Salvador,20,265.68,5313.6
+PROD-057,Laptop HP,Santa Ana,51,204.59,10434.09
+PROD-058,"Monitor 24""",Santa Ana,121,423.07,51191.47
+PROD-059,"Monitor 24""",San Salvador,11,747.25,8219.75
+PROD-060,Silla Ergonómica,La Libertad,46,663.74,30532.04
+PROD-061,Audífonos Gamer,San Salvador,108,529.76,57214.08
+PROD-062,Disco SSD 1TB,San Miguel,63,588.21,37057.23
+PROD-063,Disco SSD 1TB,La Libertad,84,702.69,59025.96
+PROD-064,"Monitor 24""",La Libertad,121,89.58,10839.18
+PROD-065,Teclado Mecánico,San Salvador,102,223.68,22815.36
+PROD-066,Silla Ergonómica,Santa Ana,63,344.59,21709.17
+PROD-067,Impresora L3210,San Salvador,77,189.38,14582.26
+PROD-068,Impresora L3210,La Libertad,137,561.97,76989.89
+PROD-069,Teclado Mecánico,San Salvador,137,432.71,59281.27
+PROD-070,"Monitor 24""",San Miguel,124,482.7,59854.8
+PROD-071,Silla Ergonómica,Sonsonate,60,670.65,40239.0
+PROD-072,Teclado Mecánico,San Miguel,30,384.44,11533.2
+PROD-073,"Monitor 24""",San Salvador,70,381.91,26733.7
+PROD-074,"Monitor 24""",San Miguel,58,47.05,2728.9
+PROD-075,"Monitor 24""",La Libertad,55,687.43,37808.65
+PROD-076,Teclado Mecánico,La Libertad,46,697.31,32076.26
+PROD-077,Laptop HP,Sonsonate,104,723.26,75219.04
+PROD-078,Laptop HP,La Libertad,76,139.58,10608.08
+PROD-079,Laptop HP,Santa Ana,63,526.58,33174.54
+PROD-080,Disco SSD 1TB,Santa Ana,41,508.29,20839.89
+PROD-081,Audífonos Gamer,Santa Ana,136,395.97,53851.92
+PROD-082,Mouse Inalámbrico,Santa Ana,26,638.77,16608.02
+PROD-083,Laptop HP,San Miguel,48,230.79,11077.92
+PROD-084,Audífonos Gamer,Santa Ana,108,203.31,21957.48
+PROD-085,Disco SSD 1TB,Sonsonate,69,390.84,26967.96
+PROD-086,Laptop HP,La Libertad,29,492.72,14288.88
+PROD-087,Disco SSD 1TB,La Libertad,124,263.43,32665.32
+PROD-088,"Monitor 24""",Santa Ana,75,337.28,25296.0
+PROD-089,Audífonos Gamer,San Miguel,72,736.65,53038.8
+PROD-090,Silla Ergonómica,Santa Ana,67,37.42,2507.14
+PROD-091,"Monitor 24""",Santa Ana,79,237.9,18794.1
+PROD-092,Teclado Mecánico,La Libertad,110,398.85,43873.5
+PROD-093,Impresora L3210,La Libertad,117,472.82,55319.94
+PROD-094,"Monitor 24""",Sonsonate,125,317.35,39668.75
+PROD-095,Teclado Mecánico,La Libertad,22,727.61,16007.42
+PROD-096,Mouse Inalámbrico,San Miguel,129,214.06,27613.74
+PROD-097,"Monitor 24""",Santa Ana,99,33.63,3329.37
+PROD-098,Impresora L3210,San Salvador,149,315.58,47021.42
+PROD-099,Mouse Inalámbrico,Santa Ana,10,340.13,3401.3
+PROD-100,Disco SSD 1TB,San Salvador,126,484.13,61000.38
